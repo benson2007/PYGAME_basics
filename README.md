@@ -36,6 +36,6 @@ player_rect.left = 32
 player_rect.centery = WINDOW_HEIGHT//2
 ```
 **_5. Game Assets:_**<>
-[Icon Archive:] (https://iconarchive.com/)網站提供很多遊戲角色下載
+[Icon Archive:] (https://iconarchive.com/) 網站提供很多遊戲角色下載<be>
 [Leshy SFMaker:](https://www.leshylabs.com/apps/sfMaker/) 網站可以下載遊戲特效，也可以簡單製作自己的音效
    
