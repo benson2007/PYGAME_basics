@@ -3,8 +3,7 @@
  1. **參考資料**
     1. Pygame Page: http://pygame.org
     2. documentation: http://pygame.org/docs/ref/
-    3. Icon Archive:https://iconarchive.com/ (下載遊戲角色)
-    4. Leshy SFMaker:https://www.leshylabs.com/apps/sfMaker/(下載音效)
+    
     <br><br><br>
   ------
 
@@ -36,3 +35,7 @@ player_rect = player_image.get_rect()
 player_rect.left = 32
 player_rect.centery = WINDOW_HEIGHT//2
 ```
+**_5. Game Assets:_**<>
+[Icon Archive:] (https://iconarchive.com/)網站提供很多遊戲角色下載
+[Leshy SFMaker:](https://www.leshylabs.com/apps/sfMaker/) 網站可以下載遊戲特效，也可以簡單製作自己的音效
+   
