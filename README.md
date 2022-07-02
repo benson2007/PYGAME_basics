@@ -39,4 +39,4 @@ player_rect.centery = WINDOW_HEIGHT//2
 [Icon Archive:] (https://iconarchive.com/) 網站提供很多遊戲角色下載<be>
 [Leshy SFMaker:](https://www.leshylabs.com/apps/sfMaker/) 網站可以下載遊戲特效，也可以簡單製作自己的音效
   
-<img src="https://github.com/benson2007/PYGAME_basics/blob/main/1.png" width="400"height="300" alt="2.py程式載圖><br>
+<img src="https://github.com/benson2007/PYGAME_basics/blob/main/1.png" width="400" height="300" alt="2.py程式載圖"><br>
